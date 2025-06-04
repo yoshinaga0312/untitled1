@@ -1,4 +1,4 @@
-package reviews.reviews3;
+package reviews.reviews3.classファイル;
 
 public class Email {
     public void send(String to, String body) {

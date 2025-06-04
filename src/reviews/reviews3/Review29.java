@@ -1,5 +1,7 @@
 package reviews.reviews3;
 
+import reviews.reviews3.classファイル.KeyInput;
+
 public class Review29 {
     public static void main(String[] args) {
         KeyInput inputStr = new KeyInput();

@@ -1,4 +1,4 @@
-package reviews.reviews3;
+package reviews.reviews3.classファイル;
 import java.io.*;
 public class KeyInput {
     public String readString(){

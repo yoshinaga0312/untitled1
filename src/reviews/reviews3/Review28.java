@@ -1,4 +1,6 @@
 package reviews.reviews3;
+import reviews.reviews3.classファイル.Email;
+
 import java.io.*;
 public class Review28 {
     public static void main(String[] args) throws IOException{
